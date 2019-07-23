@@ -1,0 +1,7 @@
+
+> fsevents@1.2.4 install /Users/juan_navarro/development/react-native-projects/sbxreportsc/node_modules/fsevents
+> node install
+
+[fsevents] Success: "/Users/juan_navarro/development/react-native-projects/sbxreportsc/node_modules/fsevents/lib/binding/Release/node-v59-darwin-x64/fse.node" is installed via remote
++ react-native@0.55.4
+added 723 packages and updated 28 packages in 38.023s
